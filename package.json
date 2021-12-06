@@ -1,6 +1,6 @@
 {
   "name": "jlc-rsa",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "author": "Joakim L. Christiansen (https://joakimch.github.io)",
   "repository": "github:JoakimCh/jlc-rsa",
   "license": "MIT",
@@ -8,5 +8,6 @@
   "main": "source/rsa.js",
   "funding": "https://joakimch.github.io/funding.html",
   "description": "An ES module for doing the raw RSA algorithm (without any padding scheme) in vanilla JavaScript.",
-  "files": ["source/*"]
+  "files": ["source/*"],
+  "keywords": ["rsa", "raw", "algorithm", "vanilla", "JavaScript"]
 }
